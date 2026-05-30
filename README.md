@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Sleem 👋
+# Hi, I'm Ahmed Sleem 
 
 ### AI Engineer | Machine Learning | Generative AI | NLP | Computer Vision | Reinforcement Learning
 
@@ -59,7 +59,7 @@ I enjoy building intelligent systems that solve real-world problems, from Retrie
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### MedStudy AI
 
@@ -79,11 +79,11 @@ Business Intelligence and Machine Learning solution using Python and Power BI.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * GitHub: github.com/AhmedSleemAI
 * Email: [abnsleem701@gmail.com](mailto:abnsleem701@gmail.com)
 
 ---
 
-⭐ Always learning, building, and improving AI systems.
+ Always learning, building, and improving AI systems.
